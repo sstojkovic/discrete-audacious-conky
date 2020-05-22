@@ -1,6 +1,6 @@
 # DiscreteAudacious - Conky plugin
 
-Displays song details played by aducaious in the bottom left edge of the screen
+Displays song details played by audcaious in the bottom left edge of the screen
 
 # Preview
 
